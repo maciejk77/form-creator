@@ -1,4 +1,7 @@
 ## React project starter with Typescript
 
-- master (React + TS)
-- version-with-storybook (React + TS + Storybook)
+- React and Typescript
+
+### Additional
+
+- Storybook run `npx storybook init`
